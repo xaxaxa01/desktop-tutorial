@@ -1,0 +1,15 @@
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\bin\Debug\лабораторная3.exe.config
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\bin\Debug\лабораторная3.exe
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\bin\Debug\лабораторная3.pdb
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\лабораторная3.csproj.AssemblyReference.cache
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\MainWindow.g.cs
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\App.g.cs
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\лабораторная3_MarkupCompile.cache
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\лабораторная3_MarkupCompile.lref
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\MainWindow.baml
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\лабораторная3.g.resources
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\лабораторная3.Properties.Resources.resources
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\лабораторная3.csproj.GenerateResource.cache
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\лабораторная3.csproj.CoreCompileInputs.cache
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\лабораторная3.exe
+C:\Users\79153\OneDrive\Рабочий стол\3 курс\c#\лабораторная3\лабораторная3\obj\Debug\лабораторная3.pdb
