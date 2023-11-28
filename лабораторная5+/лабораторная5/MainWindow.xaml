@@ -1,0 +1,43 @@
+﻿<Window x:Class="лабораторная5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:лабораторная5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--<StackPanel x:Name="menuSelector" Grid.Column="0" RadioButton.Checked="RadioButton_Click">
+            <RadioButton GroupName="menu" Content="test 1" />
+            <RadioButton GroupName="menu" Content="test 2" />
+            <RadioButton GroupName="menu" Content="test 3" />
+            <RadioButton GroupName="menu" Content="test 4" />
+            <TextBlock x:Name="textBlock1" Grid.Column="1"  Padding="10" />
+            <Button x:Name="Button" Content="Click" Click="Button_Click" />-->
+            
+            
+  
+        <!--</StackPanel>-->
+
+        <StackPanel>
+            <Label Content="KeyDown"/>
+            <TextBox KeyDown="TextBox_KeyDown"  />
+            <TextBlock x:Name="textBlock1" Grid.Row="0" />
+            <Label Content="PreviewKeyDown"/>
+            <TextBox PreviewKeyDown="TextBox_PreviewKeyDown"  />
+            <TextBlock x:Name="textBlock2" Grid.Row="1" />
+            <Label Content="KeyUp"/>
+            <TextBox KeyUp="TextBox_KeyUp"  />
+            <TextBlock x:Name="textBlock3" Grid.Row="2" />
+            <Label Content="PreviewKeyUp"/>
+            <TextBox PreviewKeyUp="TextBox_KeyUp"  />
+            <TextBlock x:Name="textBlock4" Grid.Row="3" />
+            <Label Content="TextInput"/>
+            <TextBox TextInput="TextBox_TextInput"  />
+            <TextBlock x:Name="textBlock5" Grid.Row="4" />
+            <Label Content="PreviewTextInput"/>
+            <TextBox PreviewTextInput="TextBox_PreviewTextInput"  />
+            <TextBlock x:Name="textBlock6" Grid.Row="5" />
+        </StackPanel>
+    </Grid>
+</Window>
